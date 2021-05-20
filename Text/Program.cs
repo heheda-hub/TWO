@@ -9,6 +9,9 @@ namespace Text
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("nihao");
+            Console.WriteLine("nihao");
+            Console.WriteLine("nihao");
+            Console.WriteLine("nihao");
         }
     }
 }
